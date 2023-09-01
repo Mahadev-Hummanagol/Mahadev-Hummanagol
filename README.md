@@ -1,7 +1,7 @@
 <style>
   /* Add background image and adjust styles */
   body {
-    background-image: url('[URL_TO_YOUR_IMAGE](https://github.com/Mahadev-Hummanagol/Mahadev-Hummanagol/blob/main/wallp.jpg)');
+    background-image: url('(https://github.com/Mahadev-Hummanagol/Mahadev-Hummanagol/blob/main/wallp.jpg)');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;

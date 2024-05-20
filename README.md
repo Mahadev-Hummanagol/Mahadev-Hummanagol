@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahadev Hummanagol</h1>
-<h3 align="center">I am Datascientist(Sherlock Holmes of data),Python developer and Tech lover.</h3>
+<h3 align="center">I am Datascientist(Sherlock Holmes of data),developer with a proven track record in leveraging Machine Learning, Deep learning, Reinforcement learning, Generative artificial intelligence and Data engineering, Tech lover.</h3>
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Strory Telling**
 
-- 🤝 I’m looking for help with **Deep learning**
+- 🤝 My tech stacks are:Python, C, Amazon Web Services, Databricks, Azure, Hugging face, Wandb (weights & bias), Mlflow, Docker, Git, NXCad, Catia, MySQL, ANSA, Star CCM+, Open foam, VectorDB (Pinecone), Pytorch, Tensorflow, Pyspark, PowerBI, OpenAI, Matplotlib, Plotly, Pandas, Numpy, Streamlit, Tensorflow, Opencv,  Sklearn, Pycaret, Hithub, NLTK, Llama, Ms word, Excel.
 
 - 📫 How to reach me **mahadevhummanagol@gmail.com**
 

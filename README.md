@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahadev Hummanagol</h1>
-<h3 align="center">I am Datascientist(Sherlock Holmes of data),developer with a proven track record in leveraging Machine Learning, Deep learning, Reinforcement learning, Generative artificial intelligence and Data engineering, Tech lover.</h3>
+<h3 align="center">I am Datascientist(Sherlock Holmes of data),developer with a proven track record in leveraging Machine Learning, Deep learning, Reinforcement learning, Generative artificial intelligence and Data engineering.</h3>
 
 - 🌱 I’m currently learning **Strory Telling**
 

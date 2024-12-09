@@ -10,7 +10,7 @@ innovative AI solutions</h3>
 
 - 📫 How to reach me **mahadevhummanagol@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/MahadevHummanagol/MahadevHummanagol/blob/main/Mahadev%20Hummanagol_DataScience.pdf](https://github.com/MahadevHummanagol/MahadevHummanagol/blob/main/Mahadev%20Hummanagol_DataScience.pdf)
+- 📄 Know about my experiences [https://github.com/MahadevHummanagol/MahadevHummanagol/blob/main/Mahadev%20Hummanagol_DataScience.pdf](https://github.com/Mahadev-Hummanagol/Mahadev-Hummanagol/blob/main/mahadev_hummanagol_AI_ML.pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

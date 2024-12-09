@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mahadev Hummanagol</h1>
-<h3 align="center">I am Datascientist(Sherlock Holmes of data),AI ML developer with a proven track record in leveraging Machine Learning, Deep learning, Reinforcement learning, Generative artificial intelligence and Data engineering.</h3>
+<h3 align="center">I am Datascientist(Sherlock Holmes of data),AI ML developer with a proven track record in leveraging Machine Learning, Deep learning, Reinforcement learning, Generative artificial intelligence and Data engineering to Building robust, scalable applications. Passionate
+about transforming complex data into actionable insights and driving business growth through data-driven
+decision-making. Seeking a challenging role to apply my expertise, creativity and enthusiasm in developing
+innovative AI solutions</h3>
 
 - 🌱 I’m Reaserch oriented person**
 
-- 🤝 My tech stacks are:Python, C, Amazon Web Services, Databricks, Azure, Hugging face, Wandb (weights & bias), Mlflow, Docker, Git, NXCad, Catia, MySQL, ANSA, Star CCM+, Open foam, VectorDB (Pinecone), Pytorch, Tensorflow, Pyspark, PowerBI, OpenAI, Matplotlib, Plotly, Pandas, Numpy, Streamlit, Tensorflow, Opencv,  Sklearn, Pycaret, Github, NLTK, Llama, Ms word, Excel.
+- 🤝 My tech stacks are:Python, C, Amazon Web Services, Databricks, Azure, Hugging face, Wandb (weights & bias), Mlflow, Docker, Git, NXCad, Catia, MySQL, ANSA, Star CCM+, Open foam, VectorDB (Pinecone), Pytorch, Tensorflow, Pyspark, PowerBI, OpenAI, Matplotlib, Plotly, Pandas, Numpy, Streamlit, Tensorflow, Opencv,  Sklearn, Pycaret, Github, NLTK, Ms word, Excel, AZURE,Terraform,Jenkins,Kafka, OpenAI,Anthropic,Cohere, Llama,Ollma, Opencv, NLTK,BERT, GPT, Sklearn, Pycaret,NVIDIA Omniverse,USD 
 
 - 📫 How to reach me **mahadevhummanagol@gmail.com**
 

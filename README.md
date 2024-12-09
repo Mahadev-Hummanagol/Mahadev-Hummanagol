@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahadev Hummanagol</h1>
-<h3 align="center">I am Datascientist(Sherlock Holmes of data),AI ML developer with a proven track record in leveraging Machine Learning, Deep learning, Reinforcement learning, Generative artificial intelligence and Data engineering to Building robust, scalable applications. Passionate
+<h3 align="center">I am Datascientist,AI ML developer with a proven track record in leveraging Machine Learning, Deep learning, Reinforcement learning, Generative artificial intelligence and Data engineering to Building robust, scalable applications. Passionate
 about transforming complex data into actionable insights and driving business growth through data-driven
 decision-making. Seeking a challenging role to apply my expertise, creativity and enthusiasm in developing
 innovative AI solutions</h3>
